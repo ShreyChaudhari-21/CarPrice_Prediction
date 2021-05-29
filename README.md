@@ -16,6 +16,6 @@ This projects shows how to apply linear regression to make used car prices predi
 First we went threw and EDA(Exploratory Data Analysis), then feature selection then modeling and finally evaluating our model using difirent metrics and diffirent techniques.
  
 ## Dataset Credit
-[www.kaggle.com]
+[kaggle](https://www.kaggle.com/)
  
 
